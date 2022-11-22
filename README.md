@@ -6,8 +6,9 @@
 #Usage
 Usage: ReconX [OPTIONS] [PATH to domain/domainfile] [Scan flag]
 Example Usage
+ ```
  ./recon_x.sh -dl ~/user/domains_file.txt -a
-
+```
 Flags:
    -dl, --domain-list                Add your domain file
    -d, --domain                      Add your domain
