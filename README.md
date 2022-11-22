@@ -9,13 +9,13 @@ Example Usage
  ```
  ./recon_x.sh -dl ~/user/domains_file.txt -a
 ```
+ 
 Flags:
    -dl, --domain-list                Add your domain file
    -d, --domain                      Add your domain
    -a,  --all                        Run All scans
    -s, --subdomain                   Run Subdomain enumration
    -h, --help                        show usage
-```
 
 #Installation 
 ```
