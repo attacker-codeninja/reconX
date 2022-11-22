@@ -3,21 +3,25 @@
 <h4>What ReconX?<h4>
 **ReconX**  If An Automation Script For Bug Bounty Hunter This tool allows you to gather some information that should help you identify what to do next and where to look and save your time !
 
-#Usage
+# Usage
 Usage: ReconX [OPTIONS] [PATH to domain/domainfile] [Scan flag]
 Example Usage
  ```
  ./recon_x.sh -dl ~/user/domains_file.txt -a
 ```
  
-Flags:
+**Flags:**
    -dl, --domain-list                Add your domain file
-   -d, --domain                      Add your domain
+ 
+   -d, --domain                      Add your Single domain
+ 
    -a,  --all                        Run All scans
+ 
    -s, --subdomain                   Run Subdomain enumration
+ 
    -h, --help                        show usage
 
-#Installation 
+# Installation 
 ```
 git clone https://github.com/YazeedOliwah/reconX.git
 cd reconX 
