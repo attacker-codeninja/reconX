@@ -1,7 +1,7 @@
 # ReconX 1.0
 #Recon The World!
 <h4>What ReconX?<h4>
-**ReconX**  If An Automation Script For Bug Bounty Hunter This tool allows you to gather some information that should help you identify what to do next and where to look and save your time !
+** ReconX **  If An Automation Script For Bug Bounty Hunter This tool allows you to gather some information that should help you identify what to do next and where to look and save your time !
 
 # Usage
 Usage: ReconX [OPTIONS] [PATH to domain/domainfile] [Scan flag]
@@ -11,6 +11,7 @@ Example Usage
 ```
  
 **Flags:**
+ 
    -dl, --domain-list                Add your domain file
  
    -d, --domain                      Add your Single domain
