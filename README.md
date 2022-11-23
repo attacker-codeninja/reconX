@@ -1,5 +1,5 @@
 # ReconX 1.0
-<h3>#Recon The World when you sleep!</h3>
+<h3>#Recon when you sleep!</h3>
 <h4>What ReconX?<h4>
 ReconX It An Automation Script For Bug Bounty Hunter This tool allows you to gather some information that should help you identify what to do next and where to look and save your time !
 
