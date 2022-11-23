@@ -49,8 +49,7 @@ chmod +x install.sh
 - Notify system
  
  # Demo 
- ![image](https://user-images.githubusercontent.com/78960693/203544821-9d66262c-3fe7-494b-b72e-ae157558d05d.png)
-
+![image](https://user-images.githubusercontent.com/78960693/203553260-3a678871-1ae2-4e59-b80f-b8c284ea656c.png)
  # Paid 
  
  Do You Want to Recon the World But You dont Have high performance? Or don't Have Much money for vps ?  
