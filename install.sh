@@ -46,6 +46,7 @@ echo -e "            Twitter: ${CYAN}@Yazeed_oliwah${ENDCOLOR}"
 
 folders(){
     mkdir -p ~/tools
+    mv admin.txt ~/tools
 }
 
 golanguage(){
